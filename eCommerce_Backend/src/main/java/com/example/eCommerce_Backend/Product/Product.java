@@ -1,4 +1,4 @@
-package com.example.eCommerce_backend.Product;
+package com.example.eCommerce_Backend.Product;
 
 import com.fasterxml.jackson.annotation.JsonTypeId;
 

@@ -1,4 +1,4 @@
-package com.example.eCommerce_backend.Product;
+package com.example.eCommerce_Backend.Product;
 
 import java.io.IOException;
 import java.nio.file.Files;

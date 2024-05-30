@@ -1,4 +1,4 @@
-package com.example.eCommerce_backend.Category;
+package com.example.eCommerce_Backend.Category;
 
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;

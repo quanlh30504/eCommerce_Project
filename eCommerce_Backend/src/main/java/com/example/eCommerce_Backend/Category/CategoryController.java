@@ -1,4 +1,4 @@
-package com.example.eCommerce_backend.Category;
+package com.example.eCommerce_Backend.Category;
 
 import jakarta.validation.Valid;
 import org.apache.coyote.Response;
