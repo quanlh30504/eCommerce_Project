@@ -4,7 +4,7 @@ spring:
   application:
     name : studySpring
   main:
-    lazy-initialization: true     # Ch? kh?i t?o các bean khi c?n
+    lazy-initialization: true     # Ch? kh?i t?o cï¿½c bean khi c?n
   servlet:
     multipart:
       max-file-size: 10MB
@@ -20,5 +20,8 @@ spring:
 logging:
   level:
     org.hibernate.SQL: DEBUG
+
+api:
+  prefix: api/v1
 
 
