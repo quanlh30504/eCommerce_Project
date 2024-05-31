@@ -1,4 +1,4 @@
-package com.example.eCommerce_Backend.Product;
+package com.example.eCommerce_Backend.DTOs;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;

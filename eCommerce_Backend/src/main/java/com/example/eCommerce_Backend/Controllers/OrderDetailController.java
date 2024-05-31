@@ -1,8 +1,7 @@
-package com.example.eCommerce_Backend.OrderDetail;
+package com.example.eCommerce_Backend.Controllers;
 
+import com.example.eCommerce_Backend.DTOs.OrderDetailDTO;
 import jakarta.validation.Valid;
-import org.apache.coyote.Response;
-import org.springframework.boot.autoconfigure.batch.BatchDataSource;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;

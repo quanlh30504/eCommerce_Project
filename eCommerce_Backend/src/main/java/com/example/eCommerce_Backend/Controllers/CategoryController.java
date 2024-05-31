@@ -1,14 +1,13 @@
-package com.example.eCommerce_Backend.Category;
+package com.example.eCommerce_Backend.Controllers;
 
+import com.example.eCommerce_Backend.DTOs.CategoryDTO;
 import jakarta.validation.Valid;
-import org.apache.coyote.Response;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;
 import org.springframework.web.bind.annotation.*;
 
-import javax.naming.Binding;
 import java.util.List;
 
 @RestController
