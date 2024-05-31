@@ -44,6 +44,7 @@ public class Order {
     private LocalDateTime orderDate;
 
     @Column(name = "status")
+    @Enumerated(EnumType.STRING)
     private OrderStatus status;
 
     @Column(name = "total_money")
